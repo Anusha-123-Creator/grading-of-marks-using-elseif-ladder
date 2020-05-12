@@ -16,7 +16,7 @@ else if(marks>=55 && marks<=69)
 {
 printf("Grade C");
 }
-else if("marks>=40 && marks<=54)
+else if(marks>=40 && marks<=54)
 {
 printf("Grade D");
 }
